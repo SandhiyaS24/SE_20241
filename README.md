@@ -10,4 +10,4 @@ We are a group of 3 whose names start with S - Success. Hence, Triad Triumph - j
 [![GitHub User's stars](https://img.shields.io/github/stars/Sanjaeyss?logo=github&label=Sanjaey%20Shunmuga%20Sundaram)](https://github.com/Sanjaeyss)
 
 ## Moto
-Learning, Unlearning, Unleasing
+Learning . Unlearning . Unleasing
