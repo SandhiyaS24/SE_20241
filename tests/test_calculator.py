@@ -1,14 +1,14 @@
 # test_calculator.py
 #from calculator import add, subtract
 
-from calculator import add , subtract , fact
+from simplepython import is_prime , squaresum
 
-def test_add():
-    assert add(2, 3) == 5  # This should pass
+def test_is_prime():
+    assert is_prime(4) == True
 
-def test_subtract():
-    assert subtract(5, 3) == 3 
+def test_squaresum():
+    assert squaresum(5) == 55  # This should pass
 
-def test_fact():
-    assert fact(5) == 120
-    
+
+
+
