@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="All Tests" tests="2" failures="1" errors="0" skipped="0" time="0.345">
+    <testsuite name="Add Test" tests="1" failures="1" errors="0" skipped="0" time="0.123">
+        <testcase name="testAddition" classname="" time="0.123">
+            <failure message="assertion failed" type="java.lang.AssertionError">
+                junit.framework.AssertionFailedError: expected:<3> but was:<2>
+                    at com.example.TestCalculator.testAddition(MyTest.java:15)
+            </failure>
+        </testcase>
+    </testsuite>
+</testsuites>
