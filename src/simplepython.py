@@ -18,3 +18,11 @@ def squaresum(n):
         sum_s = sum_s + (i * i)
 
     return sum_s
+
+
+def fact(n):
+    if(n==1 or n == 0):
+        return 1
+    else:
+        return n*fact(n-1)
+
